@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header {
+    background-image: url('https://cdn-s-www.lalsace.fr/images/F42216F2-0B4A-4560-9DCA-284ED691E15A/NW_raw/le-mexique-terre-des-dieux-1659709330.jpg'); 
+    background-size: cover;
+    padding: 200px 20px;
+    text-align: center;
+    color: white; 
+}
+.header h1 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 3em;
+    font-weight: bold;
+}
+.header h2 {
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-size: 1.5em;
+}
